@@ -20,6 +20,13 @@ Currently supported tuning strategies are:
 * [Exhaustive](docs/introduction.md#exhaustive-strategy)
 * [Random](docs/introduction.md#random-strategy)
 
+Validated Configurations:
+* Python 3.6 & 3.7
+* Centos 7
+* 2nd & 3rd Generation Intel Xeon Scalable Processor with VNNI
+* Intel TensorFlow 1.15.2, 2.1.0 and 1.15UP1
+* PyTorch 1.5.0+cpu and 1.6.0+cpu
+* MXNet 1.6.0
 
 # Introduction 
 
